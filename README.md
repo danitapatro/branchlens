@@ -131,4 +131,4 @@ branchlens/
 
 **D. Anita Patro**
 Data Engineer | Python | SQL | Snowflake | Databricks
-[GitHub](https://github.com/danitapatro) | [LinkedIn](https://www.linkedin.com/in/d-anita-patro)
+[GitHub](https://github.com/danitapatro)) | [LinkedIn](www.linkedin.com/in/danitapatro)
